@@ -1,5 +1,5 @@
 [project]
-name = "addmeta"
+name = "addmeta-test"
 dynamic = ["version"]
 authors = [
     {name = "Aidan Heerdegen", email="aidan.heerdegen@anu.edu.au"},
