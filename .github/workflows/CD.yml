@@ -15,5 +15,3 @@ jobs:
       ANACONDA_USERNAME: ${{ secrets.ANACONDA_USERNAME }}
     permissions:
       contents: write
-    with:
-      dry-run: true
